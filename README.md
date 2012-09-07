@@ -1,0 +1,4 @@
+weichen
+=======
+
+weichen Linux configuration
